@@ -5,9 +5,9 @@
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** João pedro
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** Sr. Renato garcia
 
 ## Apresentação do projeto
 
@@ -59,4 +59,4 @@ O exemplo cresce a cada aula no [repositório do modelo](https://github.com/Prof
 
 ---
 
-**Profe. Berssa** | Dr. João Henrique Berssanette
+**Presidente da empresa Jconceito** | Pr. joao pedro
